@@ -1,4 +1,4 @@
-<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/be048f5c-bfb9-4fc1-a9eb-cd272932c393" /><h1 align="center">DiceRoller</h1>
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/be048f5c-bfb9-4fc1-a9eb-cd272932c393" /><h1 align="center">lista rolavel</h1>
 
 <p align="center">
 
